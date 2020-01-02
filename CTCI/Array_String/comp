@@ -1,0 +1,10 @@
+
+gcc -pthread multi_process.c -o p.out
+
+gcc pointer.c -o point.out
+
+g++ is_unique.cpp -o a.out
+
+g++ perm_palindrome.cpp -o b.out
+
+g++ one_away.cpp -o c.out

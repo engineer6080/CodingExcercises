@@ -1,0 +1,5 @@
+#!/bin/bash
+g++ test.cpp ll.hpp -o test
+#g++ sum_list.cpp -o test
+./test
+rm test
